@@ -16,7 +16,7 @@ We also wanted to see how the oil royalties (which goes into Albertan government
 
 Please **download the .html file** in order to see all the outputs and visualisations along with the code written.
 
-In order to run the code on your local machine, then you have to download the Jupyter Notebook and all the .csv files with it.
+In order to run the code on your local machine, then you have to download the Jupyter Notebook and all the .csv and .xlsx files with it.
 
 ***
 
