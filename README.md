@@ -2,7 +2,7 @@
 
 Everyone has been affected by the COVID-19 pandemic in some manner or the other (Year 2019-2020).
 
-Since Oil and gas industry is one of the biggest contributors to Alberta's GDP, we wanted to know how it has seen affected due to this pandemic.
+Since Oil and gas industry is one of the biggest contributors to Alberta's GDP, we wanted to know how it has been affected due to this pandemic.
 
 We also wanted to see how the oil royalties (which goes into Albertan government's kitty) were affected. 
 
